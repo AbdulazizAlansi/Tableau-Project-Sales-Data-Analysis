@@ -1,24 +1,50 @@
-# 📊 Tableau Project – Sales Data Analysis
+# 📊 Tableau Sales Data Analysis Project
 
-This project demonstrates data cleaning and visualization using Tableau Public. The dataset (MV_Sales_Clean.xlsx) was prepared and transformed to ensure accuracy and usability before building interactive dashboards.
+This project demonstrates data cleaning and visualization using Tableau Public. The dataset (MV_Sales_Clean.xlsx) was processed and analyzed to generate meaningful insights through interactive visualizations.
 
-🔧 Data Preparation
-Cleaned and formatted raw sales data within Tableau
-Handled inconsistencies and ensured correct data types
-Prepared dataset for effective visualization
+🔗 Tableau Dashboard
 
-📈 Visualizations Created
-Top 10 Products by Quantity (Region-wise) – Identifies high-performing products across regions
-Horizontal Bar Chart – Compares sales distribution
-Pie Chart – Shows proportional insights
-Bubble Chart – Highlights patterns and relationships in sales data
+👉 View the interactive dashboard here:
+https://public.tableau.com/views/MyCleanData_17753205924760/Sheet1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+🧹 Data Cleaning
+
+Before creating visualizations, the dataset was prepared داخل Tableau:
+
+Fixed data formatting issues
+Ensured correct data types
+Removed inconsistencies and improved data quality
+Structured the dataset for accurate analysis
+📈 Visualizations
+🔹 Top 10 Products by Quantity (by Region)
+
+Identifies the highest-performing products based on quantity across different regions.
+
+🔹 Horizontal Bar Chart
+
+Provides a clear comparison of sales or quantity distribution across categories.
+
+🔹 Pie Chart
+
+Shows proportional distribution of key metrics for quick insights.
+
+🔹 Bubble Chart
+
+Highlights patterns and relationships in the dataset using size and visual grouping.
 
 🎯 Key Skills Demonstrated
 Data Cleaning in Tableau
-Data Visualization & Dashboard Design
+Data Visualization & Dashboard Creation
 Analytical Thinking
-Business Insight Communication
-
-📌 Tools Used
+Data Interpretation and Insight Communication
+🛠️ Tools & Technologies
 Tableau Public
-Excel
+Microsoft Excel
+🚀 Project Purpose
+
+This project was created as part of hands-on practice to strengthen skills in data analysis and visualization, focusing on transforming raw data into actionable insights.
+
+📌 Author
+
+Abdulaziz Alansi
+Aspiring Data Analyst | Data Science Enthusiast
