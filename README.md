@@ -16,6 +16,7 @@ Ensured correct data types
 Removed inconsistencies and improved data quality
 Structured the dataset for accurate analysis
 📈 Visualizations
+
 🔹 Top 10 Products by Quantity (by Region)
 ![Top 10 Products by Quantity](https://github.com/AbdulazizAlansi/Tableau-Project-Sales-Data-Analysis/blob/main/doc/Bubble%20Chart.png)
 
