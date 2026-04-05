@@ -20,6 +20,7 @@ Structured the dataset for accurate analysis
 🔹 Top 10 Products by Quantity (by Region) on Side-by-Side Bars
 ![Top 10 Products by Quantity](https://github.com/AbdulazizAlansi/Tableau-Project-Sales-Data-Analysis/blob/main/doc/Top%2010%20Products%20by%20Quantity%202.png)
 
+
 Top 10 Products by Quantity on Squares
 ![Top 10 Products by Quantity](https://github.com/AbdulazizAlansi/Tableau-Project-Sales-Data-Analysis/blob/main/doc/Top%2010%20Products%20by%20Quantity.png)
 
@@ -38,11 +39,17 @@ Provides a clear comparison of sales or quantity distribution across categories.
 
 Shows proportional distribution of key metrics for quick insights.
 
+
 🔹 Bubble Chart
 ![Bubble Chart](https://github.com/AbdulazizAlansi/Tableau-Project-Sales-Data-Analysis/blob/main/doc/Bubble%20Chart.png)
 
+
 Bubble Chart on Squares Including Revenue
 ![Bubble Chart](https://github.com/AbdulazizAlansi/Tableau-Project-Sales-Data-Analysis/blob/main/doc/Bubble%20Chart%202.png)
+
+
+🔹 Map Showing State or Province with Revenue
+![Map](https://github.com/AbdulazizAlansi/Tableau-Project-Sales-Data-Analysis/blob/main/doc/Map.png)
 
 
 Highlights patterns and relationships in the dataset using size and visual grouping.
