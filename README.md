@@ -52,11 +52,18 @@ Bubble Chart on Squares Including Revenue
 ![Map](https://github.com/AbdulazizAlansi/Tableau-Project-Sales-Data-Analysis/blob/main/doc/Map.png)
 
 
+🔹Dashboard Showing 4 Pages with "filters and highlighting to a dashboard" and "add parameters to a dashboard"
+![Dashboard](https://github.com/AbdulazizAlansi/Tableau-Project-Sales-Data-Analysis/blob/main/doc/My%20Dashboard.png)
+
+
+
 Highlights patterns and relationships in the dataset using size and visual grouping.
 
 🎯 Key Skills Demonstrated
 Data Cleaning in Tableau
 Data Visualization & Dashboard Creation
+Customizing Visualizations
+Designing Interactive Dashboards
 Analytical Thinking
 Data Interpretation and Insight Communication
 🛠️ Tools & Technologies
